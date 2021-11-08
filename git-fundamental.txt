@@ -1,3 +1,5 @@
+Eduwork Task Fullstack Web Developer - MERN
+
 Intro :
 Install aplikasi dan screenshot app-nya
 - git : https://prntscr.com/1y8cseq
@@ -6,3 +8,10 @@ Install aplikasi dan screenshot app-nya
 - vs code : https://prntscr.com/1y8dgry
 - source tree : https://prntscr.com/1y8dof5
 - screen o matic : https://prntscr.com/1y8efjo
+
+Fundamental
+https://prnt.sc/1yhu2yk
+
+Branch
+https://prntscr.com/1ym2mbi
+https://prntscr.com/1ym2ta1
